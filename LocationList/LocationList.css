@@ -1,0 +1,13 @@
+.tableNumber {
+  align: right;
+  padding-left: 0;
+  padding-right: 0;
+  font-size: 22px;
+}
+
+.tableText {
+  padding-left: 30px;
+  text-align: left;
+  vertical-align: top;
+  font-size: 22px;
+}

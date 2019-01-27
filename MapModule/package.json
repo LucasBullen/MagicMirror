@@ -1,0 +1,19 @@
+{
+  "name": "MapModule",
+  "version": "1.2.0",
+  "description": "Map Module",
+  "main": "MapModule.js",
+  "author": "Lucas Bullen",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-eslint": "latest",
+    "grunt-jsonlint": "latest",
+    "grunt-markdownlint": "^1.0.13",
+    "grunt-stylelint": "latest",
+    "grunt-yamllint": "^0.3.0",
+    "stylelint": "^8.3.0",
+    "stylelint-config-standard": "latest",
+    "time-grunt": "latest"
+  }
+}
